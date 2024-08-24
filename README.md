@@ -1,3 +1,4 @@
+```
 import sharpOptimizeImages from 'gulp-sharp-optimize-images';
 import gulp from 'gulp';
 
@@ -30,3 +31,4 @@ export function yourImages() {
 
     .pipe(gulp.dest('yourDistImagePath'));
 }
+```
